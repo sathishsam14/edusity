@@ -32,6 +32,7 @@ const Contact = () => {
     }
   };
 
+  console.log("sam")
   return (
     <div className="contact">
       <div className="contact-col">
